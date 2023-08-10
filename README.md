@@ -19,6 +19,7 @@
 ![](https://i.imgur.com/sdogwnr.png)
 
 
+![Visualization of this repo](./diagram.svg)
 
 
 
